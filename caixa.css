@@ -78,6 +78,7 @@
   .header .mobile-icon .hamburguer:after {
     top: -5px;
   }
+  /* menu btn */
   .header .mobile-btn {
     display: none;
   }
@@ -108,6 +109,7 @@
     margin:0 4%;  
    
 }
+  /* 48em = 768px */
   @media (min-width: 48em) {
     
     .header li { float:left; }
