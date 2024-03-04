@@ -1,6 +1,25 @@
 *{
-    padding: 0;
     margin: 0;
+    padding: 0;
+    text-align: justify;
+    background-color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 6px;
+}
+h1{
+    text-align: center;
+    font-size: 35px;
+}
+h2{
+    font-size: 28px;
+}
+p{
+    font-size: 24;
+}
+img{
+    border-radius: 10px;
+    height: 220px;
+    width: 220px;
 }
 footer button{
     margin-left: 280px;
