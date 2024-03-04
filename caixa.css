@@ -1,32 +1,28 @@
 *{
     margin: 0;
     padding: 0;
-    text-align: justify;
-    background-color: gray;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin: 6px;
 }
 h1{
     text-align: center;
     font-size: 35px;
+    padding-top: 30px;
 }
 h2{
     font-size: 28px;
 }
-p{
-    font-size: 24;
-}
+
 img{
     border-radius: 10px;
     height: 220px;
     width: 220px;
 }
 footer button{
-    margin-left: 280px;
-    background-color: gray;
+    margin-left: 295px;
+    background-color: gainsboro;
     margin-top: 60px;
     height: 35px;
     border-radius: 10px;
+    cursor: pointer;
 }
 footer h2{
     color: black;
@@ -35,6 +31,13 @@ footer h2{
 }
 footer{
     width: 100%;
-    height: 150px;
+    height: 200px;
     background-color: rgb(39, 37, 35);
+}
+#iu{
+    text-align: center;
+    font-size: 40px;
+    padding-top: 30px;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
 }
