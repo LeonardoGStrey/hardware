@@ -5,8 +5,9 @@
 footer button{
     margin-left: 280px;
     background-color: gray;
-    margin-top: 59px;
+    margin-top: 60px;
     height: 35px;
+    border-radius: 10px;
 }
 footer h2{
     color: black;
@@ -16,5 +17,5 @@ footer h2{
 footer{
     width: 100%;
     height: 150px;
-    background-color: tan;
+    background-color: rgb(39, 37, 35);
 }
