@@ -3,16 +3,15 @@
     padding: 0;
 }
 footer button{
-    margin-left: 310px;
+    margin-left: 250px;
     background-color: gray;
     margin-top: 60px;
     height: 35px;
     border-radius: 10px;
 
     text-align: justify;
-    background-color: gray;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin: 6px;
+ 
 }
 h1{
     text-align: center;
@@ -36,7 +35,7 @@ main p{
     height: 190px;
     width: 270px;
     margin-top: 20px;
-    margin-left: 543px;
+    margin-left: 495px;
 }
 main h2{
     font-size: 28px;
@@ -55,9 +54,9 @@ main{
 img{
     border-radius: 10px;
     height: 220px;
-    width: 220px;
+    width: 230px;
     margin-top: 20px;
-    margin-left: 565px;
+    margin-left: 515px;
 }
 footer button{
     margin-left: 310px;
